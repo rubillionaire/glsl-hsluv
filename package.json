@@ -1,0 +1,15 @@
+{
+  "name": "glsl-hsluv",
+  "scripts": {
+    "start": "beefy index.js --live"
+  },
+  "browserify": {
+    "transform": ["glslify"]
+  },
+  "devDependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^17.0.0",
+    "glslify": "^7.1.1",
+    "regl": "^2.1.0"
+  }
+}
