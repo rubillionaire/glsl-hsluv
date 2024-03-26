@@ -1,6 +1,6 @@
 {
   "name": "glsl-hsluv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "beefy index.js --live"
   },
